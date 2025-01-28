@@ -3,5 +3,5 @@
   - [Notebook](FindSimilar.ipynb)
   - [Output]()
 - [Project 2](Auto Data Entry AI)
-  - [Notebook](Autocode.ipynb)
+  - [Notebook](AutoCode.ipynb)
   - [Output]()
